@@ -1,0 +1,3 @@
+{"ts":"2026-01-06T21:53:03.143700+00:00","level":"INFO","component":"runner","msg":"start_pcap","kv":{"file":"C:\\Users\\mmr96\\Downloads\\milestone2_AbdulRahim\\milestone2_AbdulRahim\\pcaps\\dns_examples.pcapng"}}
+{"ts":"2026-01-06T21:53:04.507312+00:00","level":"INFO","component":"runner","msg":"shutdown","kv":{"reason":"EOF_or_SIGINT"}}
+{"ts":"2026-01-06T21:53:04.789127+00:00","level":"INFO","component":"runner","msg":"start_live","kv":{"iface":"lo","dry_run":true}}

@@ -1,0 +1,5 @@
+text = open(r'c:\Users\mmr96\Desktop\Course Project\logs\detections.jsonl').read()
+print("First 200 chars:", repr(text[:200]))
+print()
+print('Test 1 - "proto":"DNS":', '"proto":"DNS"' in text)
+print('Test 2 - "rule_id":"DNS_SUSPICIOUS":', '"rule_id":"DNS_SUSPICIOUS"' in text)
