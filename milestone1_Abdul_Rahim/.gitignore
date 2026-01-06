@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.jsonl
+!.\sample_outputs\*.jsonl
+.pytest_cache/
+.DS_Store
+Thumbs.db
